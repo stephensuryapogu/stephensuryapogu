@@ -14,7 +14,7 @@ My expertise spans machine learning, natural language processing (NLP), retrieva
 
 ### 🌟 Technical Highlights
 * **Automated Data Pipeline**: Built an end-to-end ETL workflow that ingests 100+ regulations weekly from the Federal Register REST API, reducing manual research time by over 95%.
-* **AI Synthesis Engine**: Developed an LLM-powered text analytics system that extracts structured B2B insights, estimates TAM, maps competitors, and writes weekend MVP blueprints.
+* **AI Synthesis Engine**: Developed an LLM-powered text analytics system using the **Google Gemini API** to extract structured B2B insights (market sizing, competitive analysis, urgency scoring) from unstructured legal documents.
 * **Premium Interactive UI**: Built a clean responsive dark-mode frontend from scratch featuring real-time client-side search indexing, page navigation, and deep-linked sharing modals.
 
 ---
