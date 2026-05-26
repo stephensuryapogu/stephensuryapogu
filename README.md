@@ -30,4 +30,4 @@ My expertise spans machine learning, natural language processing (NLP), retrieva
 
 ## 📬 Connect with Me
 * **Email:** [stephensuryapogukanna@gmail.com](mailto:stephensuryapogukanna@gmail.com)
-* **LinkedIn:** [linkedin.com/in/stephensuryapogu](https://www.linkedin.com/in/stephensuryapogu)
+* **LinkedIn:** [stephen-suryapogu-279128185](https://www.linkedin.com/in/stephen-suryapogu-279128185/)
