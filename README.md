@@ -1,44 +1,33 @@
 # Hi, I'm Stephen Suryapogu 👋
 
-I am a Software Engineer specializing in building full-stack applications, automated data pipelines, and intelligent AI-powered solutions. I focus on creating high-performance, beautifully designed, and production-ready software.
+I am a **Data Scientist** with 3+ years of experience delivering actionable insights and developing scalable machine learning models. I hold a Master of Science in Data Science from the University at Buffalo.
+
+My expertise spans machine learning, natural language processing (NLP), retrieval-augmented generation (RAG) systems, and designing end-to-end automated data pipelines.
 
 ---
 
 ## 🏆 Featured Project: RegRadar Weekly
-**RegRadar Weekly** is an automated B2B regulatory intelligence platform that scans daily federal filings, analyzes compliance requirements with LLMs, and synthesizes them into actionable, CEO-grade business opportunities and startup blueprints.
+**RegRadar Weekly** is an automated B2B regulatory intelligence platform that scrapes daily federal filings, filters noise using NLP, and extracts structured business insights (market sizing, competitive analysis, urgency scoring) using generative AI.
 
 ### 🔗 Project Links
 * **Live Application:** [https://regradar-pipeline.vercel.app](https://regradar-pipeline.vercel.app)
 
-### 🛠️ Architecture & System Design
-```mermaid
-graph TD
-    A[Federal Register API] -->|Daily Scraper - Python| B(Data Extraction & Filter)
-    B -->|Groq API / Llama 3| C{AI Compliance & B2B Synthesis Engine}
-    C -->|Structured JSON Output| D[Static SPA Compiler]
-    D -->|Responsive HTML/CSS/JS| E[Vercel Hosting]
-    C -->|Email Drafts| F[Beehiiv Newsletter API]
-```
-
 ### 🌟 Technical Highlights
-* **Automated Pipeline**: A serverless Python engine scrapes daily publications, filters out noise, and runs a structured multi-shot prompt chain to identify target audiences, calculate TAM, list competitors, and design weekend MVPs.
-* **Premium Custom UI**: An interactive single-page application (SPA) featuring glassmorphic dark-mode aesthetics, responsive grids, real-time client-side search indexing, and smooth CSS transitions.
-* **Deep-Linked Sharing**: Modals are equipped with deep-linking functionality (`index.html?modal=X#card-X`) to enable viral social sharing back to the canonical production address.
-* **Automatic Publishing**: Integrates with the Beehiiv API to queue drafts of weekly issues.
-
-> *Note: The source code for the automated scraping and AI synthesis pipeline is hosted in a private repository to secure API credentials, prompts, and database configurations. The interactive frontend is deployed live.*
+* **Automated Data Pipeline**: Built an end-to-end ETL workflow that ingests 100+ regulations weekly from the Federal Register REST API, reducing manual research time by over 95%.
+* **AI Synthesis Engine**: Developed an LLM-powered text analytics system that extracts structured B2B insights, estimates TAM, maps competitors, and writes weekend MVP blueprints.
+* **Premium Interactive UI**: Built a clean responsive dark-mode frontend from scratch featuring real-time client-side search indexing, page navigation, and deep-linked sharing modals.
 
 ---
 
-## 💻 Tech Stack & Skills
-* **Languages:** Python, JavaScript (ES6+), HTML5, CSS3, SQL
-* **Backend & APIs:** FastAPI, Node.js, Express, RESTful APIs, Git, Unix Shell
-* **AI & Integration:** Llama 3, Groq API, prompt engineering, structured JSON analysis
-* **Frontend Systems:** Vanilla JS, Glassmorphic UI design, Responsive layouts
-* **Database & DevOps:** PostgreSQL, Supabase, Vercel, GitHub Actions, AWS
+## 🛠️ Skills & Tech Stack
+* **Languages:** Python, R, SQL, JavaScript, HTML/CSS
+* **Data Science & ML:** NLP, LLM Integration, Retrieval-Augmented Generation (RAG), Fine-tuning (LoRA), Scikit-learn, TensorFlow, Predictive Modeling
+* **Data Engineering:** ETL Pipelines, REST API Design, Web Scraping, Automated Workflows
+* **Analytics & BI:** PostgreSQL, MySQL, Tableau, Power BI, Matplotlib, Seaborn
+* **Tools & Platforms:** Git, AWS, Vercel, GitHub Actions
 
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [stephensuryapogu](https://www.linkedin.com/in/stephensuryapogu) *(Update with your actual URL)*
-* **Email:** [stephensuryapogu@gmail.com](mailto:stephensuryapogu@gmail.com) *(Update with your actual email)*
+* **Email:** [stephensuryapogukanna@gmail.com](mailto:stephensuryapogukanna@gmail.com)
+* **LinkedIn:** [linkedin.com/in/stephensuryapogu](https://www.linkedin.com/in/stephensuryapogu)
